@@ -10,13 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="199.38882"
-   height="185.03604"
+   width="592.52094"
+   height="161.32156"
    id="svg3058"
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="freifunk_ortenau_logo.svg"
-   viewBox="0 0 186.92701 173.47128">
+   sodipodi:docname="freifunk_ortenau_logo_wide.svg">
   <defs
      id="defs3060" />
   <sodipodi:namedview
@@ -24,19 +23,19 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="61.905516"
-     inkscape:cy="89.728571"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="1.4"
+     inkscape:cx="224.06566"
+     inkscape:cy="145.01795"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3825"
      showgrid="false"
-     units="mm"
-     inkscape:window-width="1717"
-     inkscape:window-height="907"
-     inkscape:window-x="123"
-     inkscape:window-y="83"
+     units="px"
+     inkscape:window-width="1458"
+     inkscape:window-height="1016"
+     inkscape:window-x="222"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -44,14 +43,35 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-global="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:snap-text-baseline="true"
+     width="800px"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:pagecheckerboard="true" />
+     inkscape:pagecheckerboard="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="385.3781,-3.5578039e-05"
+       id="guide3186"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="226.09239,249.99996"
+       id="guide3196"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-77.479042,178.99996"
+       id="guide3198"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="592.52096,140.42853"
+       id="guide3200"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3063">
     <rdf:RDF>
@@ -87,10 +107,10 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-47.893543,-859.94501)">
+     transform="translate(-92.479042,-880.04064)">
     <g
        id="g3825"
-       transform="translate(-20)">
+       transform="matrix(1.8326285,0,0,1.8326285,-36.134985,-852.66284)">
       <g
          id="g3811">
         <path
@@ -175,74 +195,53 @@
          d="m 140.60974,1032.3895 v -4.7599 h -4.06665 v 4.7599 z"
          id="path55392-0-6-4-4"
          style="fill:#dc0067;fill-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.98450422px;line-height:0%;font-family:'Just Another Hand';-inkscape-font-specification:'Just Another Hand, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dc0067;fill-opacity:1;stroke:none;stroke-width:0.58204198px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="71.989876"
+         y="998.94391"
+         id="text4171"
+         transform="scale(0.96764064,1.0334415)"><tspan
+           sodipodi:role="line"
+           id="tspan4173"
+           x="71.989876"
+           y="998.94391"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.74293518px;line-height:129.99999523%;font-family:'Just Another Hand';-inkscape-font-specification:'Just Another Hand, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dc0067;fill-opacity:1;stroke-width:0.58204198px">ortenau</tspan></text>
     </g>
     <g
-       id="g4237"
-       transform="translate(-20)">
+       id="g3145"
+       transform="matrix(1.2317367,0,0,1.2317367,371.12817,-179.18519)">
       <g
-         id="g4207">
+         id="g3851">
         <path
-           style="fill:#000000"
-           d="m 139.96875,117.15625 c 0,1.59506 -0.004,3.18619 0,4.78125 1.28765,-0.001 2.5561,0.001 3.84375,0 0,-1.59651 0.006,-3.18619 0,-4.78125 -1.28765,0.001 -2.5561,-0.001 -3.84375,0 z m 0.46875,0.46875 c 0.96574,-0.004 1.93907,-0.001 2.90625,0 0,1.2717 0.003,2.5408 0,3.8125 -0.96573,0.002 -1.94196,-0.001 -2.90625,0 -0.006,-1.2717 0.003,-2.5408 0,-3.8125 z"
-           transform="translate(0,768.89763)"
-           id="path4048"
+           d="m 168.38376,937.23491 18.01227,-18.09426 h 16.96311 l -12.00778,12.0631 24.03666,-2.2e-4 v 12.06118 h -24.03666 l 12.00778,12.06278 h -16.96311 l -18.01227,-18.09417 z"
+           id="path7-7-3-8-7"
+           style="fill:#ffb400;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:#000000"
-           d="m 132.11283,895.35648 c 0,2.40129 -0.003,4.8189 0,7.21875 0.11423,-9e-5 0.22935,5e-5 0.34375,0 0.20915,-0.16448 0.41797,-0.33297 0.625,-0.5 -0.15647,-1e-5 -0.31129,-1.6e-4 -0.46875,0 -0.004,-2.07794 0,-4.14082 0,-6.21875 0.96574,0 1.90781,-0.006 2.875,0 -0.002,1.39921 -6.5e-4,2.79276 0,4.1875 0.16542,-0.14745 0.33613,-0.28835 0.5,-0.4375 -3.5e-4,-1.41826 -5.9e-4,-2.83711 0,-4.25 -1.2891,-0.002 -2.5859,0 -3.875,0 z"
-           id="path4006"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+           d="m 189.5868,878.64258 c -25.72526,0 -46.59553,20.95966 -46.59553,46.78675 0,25.8272 20.87029,46.78895 46.59553,46.78895 25.72535,0 46.59554,-20.96175 46.59554,-46.78895 0,-25.82709 -20.87018,-46.78675 -46.59554,-46.78675 z m 0,1.89679 c 24.69605,0 44.69874,20.08354 44.69874,44.88996 0,24.80653 -20.00268,44.89216 -44.69874,44.89216 -24.69595,0 -44.69874,-20.08563 -44.69874,-44.89216 0,-24.80641 20.0028,-44.88996 44.69874,-44.88996 z"
+           id="path6-4-7-4-9"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:#000000"
-           d="m 139.95658,895.35648 c 0,0.10395 1e-5,0.20849 0,0.3125 0.0952,-0.10324 0.18671,-0.20863 0.28125,-0.3125 -0.0941,2e-5 -0.18693,0 -0.28125,0 z"
-           id="path4004"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+           d="m 189.5868,859.94501 c -35.9734,0 -65.23374,29.39773 -65.23374,65.48432 0,36.08648 29.26034,65.4865 65.23374,65.4865 35.9737,0 65.23375,-29.40002 65.23375,-65.4865 0,-36.08659 -29.26005,-65.48432 -65.23375,-65.48432 z m 0,11.33899 c 29.81949,0 53.89257,24.16136 53.89257,54.14533 0,29.98384 -24.07308,54.14533 -53.89257,54.14532 -29.81912,0 -53.89477,-24.16148 -53.89477,-54.14532 0,-29.98397 24.07565,-54.14533 53.89477,-54.14533 z"
+           id="path5-2-4-3-2"
            inkscape:connector-curvature="0" />
       </g>
+      <g
+         id="g3847">
+        <path
+           d="M 114.95751,937.23491 104.31935,926.54833 H 94.300609 l 7.091881,7.12451 -14.194871,2e-4 v 7.12608 h 14.194871 l -7.091881,7.12451 h 10.018741 l 10.63816,-10.68681 z"
+           id="path4-0-4-2-3"
+           style="fill:#ffb400;fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6054"
+           d="m 113.85587,903.25909 c -24.012281,0 -43.494291,19.56749 -43.494291,43.67452 0,24.10723 19.482,43.67232 43.494291,43.67232 24.0126,0 43.49429,-19.56509 43.49429,-43.67232 0,-24.10702 -19.4817,-43.67452 -43.49429,-43.67452 z m 0,1.89679 c 22.98331,0 41.59751,18.6914 41.59751,41.77773 0,23.08655 -18.61421,41.77553 -41.59751,41.77553 -22.982961,0 -41.597501,-18.68898 -41.597501,-41.77553 0,-23.08634 18.61452,-41.77773 41.597501,-41.77773 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
+      </g>
     </g>
-    <g
-       id="g3851"
-       transform="translate(-20)">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#ffb400;fill-opacity:1"
-         id="path7-7-3-8-7"
-         d="m 168.38376,937.23491 18.01227,-18.09426 h 16.96311 l -12.00778,12.0631 24.03666,-2.2e-4 v 12.06118 h -24.03666 l 12.00778,12.06278 h -16.96311 l -18.01227,-18.09417 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6-4-7-4-9"
-         d="m 189.5868,878.64258 c -25.72526,0 -46.59553,20.95966 -46.59553,46.78675 0,25.8272 20.87029,46.78895 46.59553,46.78895 25.72535,0 46.59554,-20.96175 46.59554,-46.78895 0,-25.82709 -20.87018,-46.78675 -46.59554,-46.78675 z m 0,1.89679 c 24.69605,0 44.69874,20.08354 44.69874,44.88996 0,24.80653 -20.00268,44.89216 -44.69874,44.89216 -24.69595,0 -44.69874,-20.08563 -44.69874,-44.89216 0,-24.80641 20.0028,-44.88996 44.69874,-44.88996 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5-2-4-3-2"
-         d="m 189.5868,859.94501 c -35.9734,0 -65.23374,29.39773 -65.23374,65.48432 0,36.08648 29.26034,65.4865 65.23374,65.4865 35.9737,0 65.23375,-29.40002 65.23375,-65.4865 0,-36.08659 -29.26005,-65.48432 -65.23375,-65.48432 z m 0,11.33899 c 29.81949,0 53.89257,24.16136 53.89257,54.14533 0,29.98384 -24.07308,54.14533 -53.89257,54.14532 -29.81912,0 -53.89477,-24.16148 -53.89477,-54.14532 0,-29.98397 24.07565,-54.14533 53.89477,-54.14533 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate" />
-    </g>
-    <g
-       id="g3847"
-       transform="translate(-20)">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#ffb400;fill-opacity:1"
-         id="path4-0-4-2-3"
-         d="M 114.95751,937.23491 104.31935,926.54833 H 94.300609 l 7.091881,7.12451 -14.194871,2e-4 v 7.12608 h 14.194871 l -7.091881,7.12451 h 10.018741 l 10.63816,-10.68681 z" />
-      <path
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#dc0067;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
-         d="m 113.85587,903.25909 c -24.012281,0 -43.494291,19.56749 -43.494291,43.67452 0,24.10723 19.482,43.67232 43.494291,43.67232 24.0126,0 43.49429,-19.56509 43.49429,-43.67232 0,-24.10702 -19.4817,-43.67452 -43.49429,-43.67452 z m 0,1.89679 c 22.98331,0 41.59751,18.6914 41.59751,41.77773 0,23.08655 -18.61421,41.77553 -41.59751,41.77553 -22.982961,0 -41.597501,-18.68898 -41.597501,-41.77553 0,-23.08634 18.61452,-41.77773 41.597501,-41.77773 z"
-         id="path6054"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Just Another Hand';-inkscape-font-specification:'Just Another Hand, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dc0067;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="48.92926"
-       y="998.82281"
-       id="text4171"
-       transform="scale(0.96764065,1.0334415)"><tspan
-         sodipodi:role="line"
-         id="tspan4173"
-         x="48.92926"
-         y="998.82281"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.92565918px;line-height:129.99999523%;font-family:'Just Another Hand';-inkscape-font-specification:'Just Another Hand, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dc0067;fill-opacity:1">ortenau</tspan></text>
   </g>
 </svg>
